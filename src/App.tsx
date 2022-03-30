@@ -4,7 +4,9 @@ import './assets/style/default.scss';
 function App() {
 
   return (
-    <h1>Base App TS</h1>
+    <>
+      <h1>Base App TS</h1>
+    </>
   );
 }
 
